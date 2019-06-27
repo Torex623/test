@@ -1,0 +1,1 @@
+{"id":"automate-register-and-login-apis-for-https://reqres.in/;register-user-for-https://reqres.in/-using-valid-details","name":"Register user for https://reqres.in/ using valid details","result":"FAILURE","testFailureSummary":"FAILURE;java.lang.AssertionError;Verify Status code for Order Api \nExpected: \u003c201\u003e\n     but: was \u003c400\u003e;RegisterUserSteps.java"}

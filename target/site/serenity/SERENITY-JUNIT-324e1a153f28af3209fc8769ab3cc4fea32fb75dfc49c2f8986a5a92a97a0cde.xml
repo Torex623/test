@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automate Register and Login APIs for https://reqres.in/" skipped="0" tests="1" time="13.86" timestamp="2019-06-27T11:57:19.590+02:00[Europe/Belgrade]"><testcase name="Register user for https"><failure message="Verify Status code for Order Api &#10;Expected: &lt;201&gt;&#10;     but: was &lt;400&gt;" type="java.lang.AssertionError">Verify Status code for Order Api 
+Expected: &lt;201&gt;
+     but: was &lt;400&gt;</failure><system-err>Verify Status code for Order Api 
+Expected: &lt;201&gt;
+     but: was &lt;400&gt;&#13;
+com.uiautomation.apisteps.RegisterUserSteps.register_API_should_have_status_code_as_and_content_type_as_JSON(RegisterUserSteps.java:37)&#13;
+✽.register API should have status code as 201 and content-type as JSON(src/test/resources/features/api/registeruser.feature:6)&#13;
+</system-err></testcase></testsuite>

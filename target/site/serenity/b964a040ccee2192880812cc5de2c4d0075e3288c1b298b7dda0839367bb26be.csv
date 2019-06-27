@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automate Register and Login APIs for https://reqres.in/","Register user for https","FAILURE","2019-06-27T11:57:19.59+02:00[Europe/Belgrade]","0.0","13.86"
+"Google search","Google search","ERROR","2019-06-27T11:57:37.627+02:00[Europe/Belgrade]","0.0","20.23"
+"Google search","Google search multiple","ERROR","2019-06-27T11:57:57.863+02:00[Europe/Belgrade]","0.0","44.49"
+"Login to NLBC","Login to NLBC with InValid Data","ERROR","2019-06-27T11:59:04.676+02:00[Europe/Belgrade]","0.0","22.1"
+"Join NLBC","Join as Male Student with Valid Data","ERROR","2019-06-27T11:58:42.449+02:00[Europe/Belgrade]","0.0","22.15"
